@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Personal wish list application</description>
+        <device_type>browser</device_type>
+        <hint>Personal wish list application</hint>
+        <name/>
+        <order/>
+        <roles>x_amits_devonswish.devons_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>dheron</sys_created_by>
+        <sys_created_on>2024-06-28 16:42:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01b67406938b0a102e97bcb51bba103e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DevonsWishList</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DevonsWishList" source="x_amits_devonswish">4245784e934b0a102e97bcb51bba1026</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevonsWishList">4245784e934b0a102e97bcb51bba1026</sys_scope>
+        <sys_update_name>sys_app_application_01b67406938b0a102e97bcb51bba103e</sys_update_name>
+        <sys_updated_by>dheron</sys_updated_by>
+        <sys_updated_on>2024-06-28 16:42:54</sys_updated_on>
+        <title>DevonsWishList</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
